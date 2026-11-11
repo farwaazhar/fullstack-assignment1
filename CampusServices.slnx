@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CampusServices.Api/CampusServices.Api.csproj" />
+  <Project Path="CampusServices.Application/CampusServices.Application.csproj" />
+  <Project Path="CampusServices.Client/CampusServices.Client.csproj" />
+  <Project Path="CampusServices.Domain/CampusServices.Domain.csproj" />
+  <Project Path="CampusServices.Infrastructure/CampusServices.Infrastructure.csproj" />
+</Solution>
